@@ -6,7 +6,7 @@
 //}
 //
 //android {
-//    namespace = "com.example.offline_billing"
+//    namespace = "com.velliongroup.invoicecrm"
 //    compileSdk = flutter.compileSdkVersion
 //    ndkVersion = flutter.ndkVersion
 //
@@ -21,7 +21,7 @@
 //
 //    defaultConfig {
 //        // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-//        applicationId = "com.example.offline_billing"
+//        applicationId = "com.velliongroup.invoicecrm"
 //        // You can update the following values to match your application needs.
 //        // For more information, see: https://flutter.dev/to/review-gradle-config.
 //        minSdk = flutter.minSdkVersion
@@ -52,7 +52,7 @@ plugins {
 
 android {
 
-    namespace = "com.example.offline_billing"
+    namespace = "in.velliongroup.invoicecrm"
     compileSdk = flutter.compileSdkVersion
 
     // Set the required NDK version explicitly here
@@ -68,8 +68,8 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.offline_billing"
-        minSdk = 21
+        applicationId = "in.velliongroup.invoicecrm"
+        minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode
         versionName = flutter.versionName
@@ -85,4 +85,3 @@ android {
 flutter {
     source = "../.."
 }
-

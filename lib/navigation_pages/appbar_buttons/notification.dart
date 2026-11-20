@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:offline_billing/database/product_db.dart';
+import 'package:invoicecrm/database/product_db.dart';
 
 class NotificationPage extends StatefulWidget {
   const NotificationPage({Key? key}) : super(key: key);

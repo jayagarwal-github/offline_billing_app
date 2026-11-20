@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:offline_billing/common/components/colors/colors.dart'; //importing colors
+import 'package:invoicecrm/common/components/colors/colors.dart'; //importing colors
 
 class CreateAccPage extends StatelessWidget {
   const CreateAccPage({super.key});

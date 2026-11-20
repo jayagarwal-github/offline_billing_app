@@ -2,10 +2,10 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:offline_billing/common/components/colors/colors.dart';
-import 'package:offline_billing/database/purchase_db.dart';
-import 'package:offline_billing/database/vendor_db.dart';
-import 'package:offline_billing/navigation_pages/appbar_buttons/fixed_appbar.dart';
+import 'package:invoicecrm/common/components/colors/colors.dart';
+import 'package:invoicecrm/database/purchase_db.dart';
+import 'package:invoicecrm/database/vendor_db.dart';
+import 'package:invoicecrm/navigation_pages/appbar_buttons/fixed_appbar.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:printing/printing.dart';
 import 'package:share_plus/share_plus.dart';

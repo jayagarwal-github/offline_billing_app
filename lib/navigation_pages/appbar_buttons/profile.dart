@@ -4,12 +4,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:image_cropper/image_cropper.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:offline_billing/common/components/colors/colors.dart';
-import 'package:offline_billing/common/components/custom_files/NumberOnlyFormatter.dart';
-import 'package:offline_billing/common/components/custom_files/custom_selector_bottom_sheet.dart';
-import 'package:offline_billing/common/components/custom_files/custom_text_field.dart';
-import 'package:offline_billing/database/profile_db.dart';
-import 'package:offline_billing/database/state_db.dart';
+import 'package:invoicecrm/common/components/colors/colors.dart';
+import 'package:invoicecrm/common/components/custom_files/NumberOnlyFormatter.dart';
+import 'package:invoicecrm/common/components/custom_files/custom_selector_bottom_sheet.dart';
+import 'package:invoicecrm/common/components/custom_files/custom_text_field.dart';
+import 'package:invoicecrm/database/profile_db.dart';
+import 'package:invoicecrm/database/state_db.dart';
 
 import '../../database/business_categories_db.dart';
 import '../../database/business_types_db.dart';

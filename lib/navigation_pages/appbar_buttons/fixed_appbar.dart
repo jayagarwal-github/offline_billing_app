@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:offline_billing/common/components/colors/colors.dart';
-import 'package:offline_billing/database/profile_db.dart';
+import 'package:invoicecrm/common/components/colors/colors.dart';
+import 'package:invoicecrm/database/profile_db.dart';
 
 /// Singleton cache for business name
 /// Singleton cache for business name

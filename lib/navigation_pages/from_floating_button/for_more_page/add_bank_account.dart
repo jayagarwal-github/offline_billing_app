@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:offline_billing/common/components/colors/colors.dart';
-import 'package:offline_billing/common/components/custom_files/NumberOnlyFormatter.dart';
-import 'package:offline_billing/common/components/custom_files/custom_text_field.dart';
+import 'package:invoicecrm/common/components/colors/colors.dart';
+import 'package:invoicecrm/common/components/custom_files/NumberOnlyFormatter.dart';
+import 'package:invoicecrm/common/components/custom_files/custom_text_field.dart';
 
 class AddBankAccountPage extends StatefulWidget {
   const AddBankAccountPage({Key? key}) : super(key: key);

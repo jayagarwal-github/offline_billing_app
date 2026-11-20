@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:offline_billing/common/components/colors/colors.dart';
-import 'package:offline_billing/navigation_pages/appbar_buttons/fixed_appbar.dart';
+import 'package:invoicecrm/common/components/colors/colors.dart';
+import 'package:invoicecrm/navigation_pages/appbar_buttons/fixed_appbar.dart';
 
 class MorePage extends StatefulWidget {
   const MorePage({super.key});

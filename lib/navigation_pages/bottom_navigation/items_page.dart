@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:offline_billing/common/components/colors/colors.dart';
-import 'package:offline_billing/navigation_pages/appbar_buttons/fixed_appbar.dart';
+import 'package:invoicecrm/common/components/colors/colors.dart';
+import 'package:invoicecrm/navigation_pages/appbar_buttons/fixed_appbar.dart';
 
 import '../../common/components/custom_files/custom_info_card.dart';
 import '../../common/components/custom_files/search_filter_widget.dart';

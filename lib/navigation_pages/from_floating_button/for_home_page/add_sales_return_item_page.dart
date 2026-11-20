@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:offline_billing/common/components/custom_files/custom_selector_bottom_sheet.dart';
-import 'package:offline_billing/common/components/custom_files/custom_text_field.dart';
-import 'package:offline_billing/database/sales_item_db.dart';
-import 'package:offline_billing/database/sales_return_item_db.dart';
-import 'package:offline_billing/database/unit_db.dart';
+import 'package:invoicecrm/common/components/custom_files/custom_selector_bottom_sheet.dart';
+import 'package:invoicecrm/common/components/custom_files/custom_text_field.dart';
+import 'package:invoicecrm/database/sales_item_db.dart';
+import 'package:invoicecrm/database/sales_return_item_db.dart';
+import 'package:invoicecrm/database/unit_db.dart';
 
 class AddSalesReturnItemPage extends StatefulWidget {
   const AddSalesReturnItemPage({super.key});

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart'; // for TextInputFormatter
-import 'package:offline_billing/common/components/colors/colors.dart';
+import 'package:invoicecrm/common/components/colors/colors.dart';
 
 class UpperCaseTextFormatter extends TextInputFormatter {
   @override

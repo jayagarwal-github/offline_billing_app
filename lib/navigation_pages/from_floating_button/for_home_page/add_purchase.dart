@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_rounded_date_picker/flutter_rounded_date_picker.dart';
-import 'package:offline_billing/common/components/colors/colors.dart';
-import 'package:offline_billing/common/components/custom_files/custom_selector_bottom_sheet.dart';
-import 'package:offline_billing/common/components/custom_files/custom_text_field.dart';
-import 'package:offline_billing/database/purchase_db.dart';
-import 'package:offline_billing/database/purchase_item_db.dart';
-import 'package:offline_billing/database/vendor_db.dart';
+import 'package:invoicecrm/common/components/colors/colors.dart';
+import 'package:invoicecrm/common/components/custom_files/custom_selector_bottom_sheet.dart';
+import 'package:invoicecrm/common/components/custom_files/custom_text_field.dart';
+import 'package:invoicecrm/database/purchase_db.dart';
+import 'package:invoicecrm/database/purchase_item_db.dart';
+import 'package:invoicecrm/database/vendor_db.dart';
 
 import '../../../database/db/database_helper.dart';
 import '../../../database/product_db.dart';

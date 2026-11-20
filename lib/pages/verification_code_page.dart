@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:offline_billing/common/components/colors/colors.dart';
+import 'package:invoicecrm/common/components/colors/colors.dart';
 
 class VerificationCodePage extends StatelessWidget {
   const VerificationCodePage({super.key});

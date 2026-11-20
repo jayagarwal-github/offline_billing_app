@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_rounded_date_picker/flutter_rounded_date_picker.dart';
-import 'package:offline_billing/common/components/colors/colors.dart';
-import 'package:offline_billing/common/components/custom_files/custom_selector_bottom_sheet.dart';
-import 'package:offline_billing/common/components/custom_files/custom_text_field.dart';
-import 'package:offline_billing/database/db/database_helper.dart';
-import 'package:offline_billing/database/sales_db.dart';
-import 'package:offline_billing/database/sales_item_db.dart';
-import 'package:offline_billing/database/sales_return_db.dart';
+import 'package:invoicecrm/common/components/colors/colors.dart';
+import 'package:invoicecrm/common/components/custom_files/custom_selector_bottom_sheet.dart';
+import 'package:invoicecrm/common/components/custom_files/custom_text_field.dart';
+import 'package:invoicecrm/database/db/database_helper.dart';
+import 'package:invoicecrm/database/sales_db.dart';
+import 'package:invoicecrm/database/sales_item_db.dart';
+import 'package:invoicecrm/database/sales_return_db.dart';
 
 import '../../../database/product_db.dart';
 import '../../../database/sales_return_item_db.dart';

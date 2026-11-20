@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
-import 'package:offline_billing/navigation_pages/appbar_buttons/profile.dart';
-import 'package:offline_billing/navigation_pages/bottom_navigation/items_page.dart';
-import 'package:offline_billing/navigation_pages/from_floating_button/for_home_page/add_vendor.dart';
+import 'package:invoicecrm/navigation_pages/appbar_buttons/profile.dart';
+import 'package:invoicecrm/navigation_pages/bottom_navigation/items_page.dart';
+import 'package:invoicecrm/navigation_pages/from_floating_button/for_home_page/add_vendor.dart';
 //pages
-import 'package:offline_billing/pages/create_acc_page.dart';
-import 'package:offline_billing/pages/first_screen.dart';
-import 'package:offline_billing/pages/forgot_password_page.dart';
-import 'package:offline_billing/pages/log_in_page.dart';
-import 'package:offline_billing/pages/reset_password_page.dart';
-import 'package:offline_billing/pages/verification_code_page.dart';
+import 'package:invoicecrm/pages/create_acc_page.dart';
+import 'package:invoicecrm/pages/first_screen.dart';
+import 'package:invoicecrm/pages/forgot_password_page.dart';
+import 'package:invoicecrm/pages/log_in_page.dart';
+import 'package:invoicecrm/pages/reset_password_page.dart';
+import 'package:invoicecrm/pages/verification_code_page.dart';
 
 import 'navigation_pages/appbar_buttons/notification.dart';
 import 'navigation_pages/appbar_buttons/setting.dart';
@@ -19,7 +19,7 @@ import 'navigation_pages/from_floating_button/for_home_page/add_purchase.dart';
 import 'navigation_pages/from_floating_button/for_home_page/add_purchase_item_page.dart';
 import 'navigation_pages/from_floating_button/for_home_page/add_purchase_return.dart';
 import 'navigation_pages/from_floating_button/for_home_page/add_purchase_return_item_page.dart';
-import 'navigation_pages/from_floating_button/for_home_page/add_sales.dart';
+import 'package:invoicecrm/navigation_pages/from_floating_button/for_home_page/add_sales.dart';
 import 'navigation_pages/from_floating_button/for_home_page/add_sales_item_page.dart';
 import 'navigation_pages/from_floating_button/for_home_page/add_sales_return.dart';
 import 'navigation_pages/from_floating_button/for_home_page/add_sales_return_item_page.dart';
